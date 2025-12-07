@@ -22,7 +22,7 @@
 ### TTS
 - [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)
 - [VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)
-- [Qwen3-TTS](https://qwen.ai/blog?id=qwen3-tts-1128)
+
 
 
 ## Proprietary
@@ -37,6 +37,11 @@
 
 ### Image edit
 - [Nanobanana Pro]()
+
+### TTS
+- [GPT-4o mini TTS](https://platform.openai.com/docs/guides/text-to-speech)
+- [ElevenLabs](https://elevenlabs.io/)
+- [Qwen3-TTS](https://qwen.ai/blog?id=qwen3-tts-1128)
 
 ### Others
 - [Antigravity](https://antigravity.google/)
