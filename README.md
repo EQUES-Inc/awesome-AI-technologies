@@ -8,6 +8,7 @@
 
 ### VLM 👁
 - [Qwen3-VL](https://huggingface.co/collections/Qwen/qwen3-vl)
+- [GLM-4.6V](https://huggingface.co/zai-org/GLM-4.6V)
 - [Ministral 3B WebGPU](https://huggingface.co/spaces/mistralai/Ministral_3B_WebGPU)
 
 ### OCR 👁
@@ -15,8 +16,10 @@
 - [MinerU (AGPL license)](https://github.com/opendatalab/MinerU)
 
 ### 3D 🧱
-- [SAM 3D](https://ai.meta.com/sam3d/)  [<model>](https://github.com/facebookresearch/sam-3d-objects)
+- [SAM 3D（SAM License, 要継承）](https://ai.meta.com/sam3d/)  [<model>](https://github.com/facebookresearch/sam-3d-objects)
 - [4D Gaussian Splatting](https://github.com/hustvl/4DGaussians)
+- [City-scale 3DGS](https://github.com/nyu-systems/CLM-GS)
+- [Hunyuan World Mirror （独自ライセンス）](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror)
 
 ### TTS 🗣
 - [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)
