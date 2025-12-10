@@ -20,6 +20,8 @@
 - [4D Gaussian Splatting](https://github.com/hustvl/4DGaussians)
 - [City-scale 3DGS](https://github.com/nyu-systems/CLM-GS)
 - [Hunyuan World Mirror （独自ライセンス）](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror)
+  - 地域縛りあり
+  - 蒸留禁止
 
 ### TTS 🗣
 - [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)
