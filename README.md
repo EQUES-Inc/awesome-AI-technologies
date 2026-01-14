@@ -1,5 +1,5 @@
 # awesome-AI-technologies
-2025.12 updated
+2026.1 updated
 
 ## For commercial use
 
@@ -20,13 +20,16 @@
 - [4D Gaussian Splatting](https://github.com/hustvl/4DGaussians)
 - [City-scale 3DGS](https://github.com/nyu-systems/CLM-GS)
 - [Hunyuan World Mirror （独自ライセンスに注意）](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror)
+- [Depth Anything 3](https://huggingface.co/spaces/depth-anything/depth-anything-3)
 
 ### TTS 🗣
 - [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)
 - [VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)
+- [Kyutai Pocket TTS](https://huggingface.co/kyutai/pocket-tts)
 
 ### Image edit 🎨
-- [Qwen-image-edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511) 
+- [Qwen-image-edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)
+- [qwen-image-multiple-angles-3d-camera](https://huggingface.co/spaces/multimodalart/qwen-image-multiple-angles-3d-camera)
 
 ### Image generation 🎨
 - [Z-Image-turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo) [<paper>](https://www.arxiv.org/abs/2511.22699)
