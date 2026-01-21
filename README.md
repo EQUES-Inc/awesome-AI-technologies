@@ -27,6 +27,9 @@
 - [VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)
 - [Kyutai Pocket TTS](https://huggingface.co/kyutai/pocket-tts)
 
+### Music generation ♪
+- [HeartMuLa](https://github.com/HeartMuLa/heartlib)
+
 ### Image edit 🎨
 - [Qwen-image-edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)
 - [qwen-image-multiple-angles-3d-camera](https://huggingface.co/spaces/multimodalart/qwen-image-multiple-angles-3d-camera)
@@ -35,6 +38,7 @@
 - [Z-Image-turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo) [<paper>](https://www.arxiv.org/abs/2511.22699)
 
 ### Video generation 🎨
+- [LTX-2 （[独自ライセンス](https://github.com/Lightricks/LTX-2/blob/main/LICENSE), 小規模企業なら商用利用可）](https://huggingface.co/Lightricks/LTX-2)
 - [Wan2.2](https://github.com/Wan-Video/Wan2.2) (TI2V, S2V, [Animate](https://huggingface.co/Wan-AI/Wan2.2-Animate-14B-Diffusers), [InP](https://huggingface.co/alibaba-pai/Wan2.2-Fun-A14B-InP))
   - [WAN2.2-14B-Rapid-AllInOne](https://huggingface.co/Phr00t/WAN2.2-14B-Rapid-AllInOne), ConfyUIで高速生成
 - [Hunyuan WorldPlay（独自ライセンスに注意）](https://huggingface.co/tencent/HY-WorldPlay)  [model](https://huggingface.co/tencent/HY-WorldPlay)
