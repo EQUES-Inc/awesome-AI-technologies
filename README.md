@@ -14,6 +14,7 @@
 ### OCR 👁
 - [PaddleOCR-VL 0.9B](https://docs.vllm.ai/projects/recipes/en/latest/PaddlePaddle/PaddleOCR-VL.html#introduction) [<blog>](https://zenn.dev/czmilo/articles/dbdd4b06889510)
 - [MinerU (AGPL license)](https://github.com/opendatalab/MinerU)
+- [LightonOCR 1B](https://huggingface.co/blog/lightonai/lightonocr)
 
 ### 3D 🧱
 - [SAM 3D（SAM License, 要継承）](https://ai.meta.com/sam3d/)  [<model>](https://github.com/facebookresearch/sam-3d-objects)
@@ -26,6 +27,8 @@
 - [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M)
 - [VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)
 - [Kyutai Pocket TTS](https://huggingface.co/kyutai/pocket-tts)
+- [Qwen3-TTS](https://huggingface.co/collections/Qwen/qwen3-tts) [<blog>](https://qwen.ai/blog?id=qwen3-tts-vc-voicedesign)
+- [PersonaPlex](https://huggingface.co/nvidia/personaplex-7b-v1)
 
 ### Music generation ♪
 - [HeartMuLa](https://github.com/HeartMuLa/heartlib)
@@ -60,7 +63,7 @@
 ### TTS
 - [GPT-4o mini TTS](https://platform.openai.com/docs/guides/text-to-speech)
 - [ElevenLabs](https://elevenlabs.io/)
-- [Qwen3-TTS](https://qwen.ai/blog?id=qwen3-tts-1128) [<blog>](https://qwen.ai/blog?id=qwen3-tts-vc-voicedesign)
+
 
 ### Video generation
 - [Wan 2.6](https://wan.video/blog/wan2.6-introduction)
