@@ -40,6 +40,7 @@
 
 ### Image generation 🎨
 - [Z-Image-turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo) [<paper>](https://www.arxiv.org/abs/2511.22699)
+- [Ideogram 4](https://huggingface.co/collections/ideogram-ai/ideogram-4)
 
 ### Video generation 🎨
 - [LTX-2](https://huggingface.co/Lightricks/LTX-2)（[独自ライセンス](https://github.com/Lightricks/LTX-2/blob/main/LICENSE), 小規模企業なら商用利用可）
