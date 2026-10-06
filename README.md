@@ -5,6 +5,7 @@
 
 ### LLM 🆎
 - [awesome-latest-LLM](https://github.com/stardust-coder/awesome-latest-LLM)
+- [LLM-JP 4.1](https://llm-jp.nii.ac.jp/blog/llm-jp-4-1/)
 
 ### VLM 👁
 - [Qwen3.6](https://huggingface.co/Qwen/Qwen3.6-27B)
@@ -39,6 +40,7 @@
 - [qwen-image-multiple-angles-3d-camera](https://huggingface.co/spaces/multimodalart/qwen-image-multiple-angles-3d-camera)
 
 ### Image generation 🎨
+- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
 - [Z-Image-turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo) [<paper>](https://www.arxiv.org/abs/2511.22699)
 - [Ideogram 4](https://huggingface.co/collections/ideogram-ai/ideogram-4)
 
@@ -55,9 +57,14 @@
 ## Proprietary
 
 ### LLM
-- [Qwen 3.6-Plus](https://qwen.ai/blog?id=qwen3.6)
-- [Gemini 3.5](https://blog.google/intl/ja-jp/company-news/technology/gemini-3-5/)
-- [GPT-5.5](https://openai.com/ja-JP/index/introducing-gpt-5-5/)
+- [GPT-6 Astra](https://openai.com/ja-JP/index/gpt-6-astra/)
+- [GPT-6.1 Sol](https://openai.com/ja-JP/index/introducing-gpt-6-1-sol/)
+- [Qwen 3.8-Max](https://qwen.ai/blog?id=qwen3.8)
+- [Gemini 4 Argon](https://blog.google/intl/ja-jp/company-news/technology/gemini4argon/)
+
+### Jev
+- [Typesafe AI Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+
 
 ### Coding
 - [Claude Code](https://code.claude.com/docs/ja/overview)
